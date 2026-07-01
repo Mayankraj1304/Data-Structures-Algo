@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0485-max-consecutive-ones) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -53,6 +56,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
