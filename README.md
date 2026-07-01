@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
