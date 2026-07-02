@@ -5,14 +5,17 @@ class Solution {
         for (int nu : nums) {
             map.put(nu, map.getOrDefault(nu, 0) + 1);
         }
-        int count = 0;
+        int flag = 0;
         for (int num : nums) {
             if (map.containsKey(num)) {
-                count = map.get(num);
+                if (map.get(num) > 1) {
+                    flag = 1;
+                    break;
+                }
             }
-            if (count > 1) {
-                return true;
-            }
+        }
+        if (flag == 1) {
+            return true;
         }
         return false;
     }
