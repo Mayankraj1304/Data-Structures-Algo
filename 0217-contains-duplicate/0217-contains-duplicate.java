@@ -1,22 +1,18 @@
-class Solution {
+import java.util.HashSet;
 
+class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int nu : nums) {
-            map.put(nu, map.getOrDefault(nu, 0) + 1);
-        }
-        int flag = 0;
+        // Create a set to keep track of numbers we've already walked past
+        HashSet<Integer> seen = new HashSet<>();
+        
         for (int num : nums) {
-            if (map.containsKey(num)) {
-                if (map.get(num) > 1) {
-                    flag = 1;
-                    break;
-                }
+            // .add() tries to add the item. 
+            // If it's already there, it returns false.
+            if (!seen.add(num)) {
+                return true; // Stop immediately! We found a duplicate.
             }
         }
-        if (flag == 1) {
-            return true;
-        }
-        return false;
+        
+        return false; // Walked through the whole array with no duplicates
     }
 }
