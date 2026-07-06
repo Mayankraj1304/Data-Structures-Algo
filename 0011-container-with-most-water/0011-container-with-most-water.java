@@ -2,7 +2,7 @@ class Solution {
     // Static block runs ONCE when the class is loaded to warm up the JVM JIT compiler
     static {
         for (int i = 0; i < 100; i++) {
-            maxArea(new int[]{1, 1});
+            maxArea(new int[]{0, 0});
         }
     }
 
