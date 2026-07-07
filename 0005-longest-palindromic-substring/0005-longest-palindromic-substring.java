@@ -7,38 +7,57 @@ class Solution {
     }
 
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-        
-        int start = 0;
-        int end = 0;
+        if (s == null || s.length() == 0) return "";
 
-        for (int i = 0; i < s.length(); i++) {
-            // Case 1: Odd length palindrome (e.g., "aba", center is 'b')
-            int len1 = expandAroundCenter(s, i, i);
-            
-            // Case 2: Even length palindrome (e.g., "abba", center is between 'b' and 'b')
-            int len2 = expandAroundCenter(s, i, i + 1);
-            
-            // Get the maximum length found from this center position
-            int maxLen = Math.max(len1, len2);
+        // Step 1: Transform string to handle even and odd palindromes uniformly
+        StringBuilder sb = new StringBuilder();
+        sb.append('^'); // Start sentinel to avoid bounds checks
+        for (char c : s.toCharArray()) {
+            sb.append('#').append(c);
+        }
+        sb.append('#').append('$'); // End sentinel
+        String T = sb.toString();
 
-            // If we found a longer palindrome, update our tracking indices
-            if (maxLen > end - start) {
-                start = i - (maxLen - 1) / 2;
-                end = i + maxLen / 2;
+        int n = T.length();
+        int[] P = new int[n]; // Tracks the radius of the palindrome at each index
+        int center = 0;       // Center of the current furthest reaching palindrome
+        int rightBoundary = 0; // Right edge of the current furthest reaching palindrome
+
+        for (int i = 1; i < n - 1; i++) {
+            int iMirror = 2 * center - i; // Find the mirror index of 'i' around 'center'
+
+            // If we are within the boundary, grab the mirrored value
+            if (rightBoundary > i) {
+                P[i] = Math.min(rightBoundary - i, P[iMirror]);
+            } else {
+                P[i] = 0;
+            }
+
+            // Attempt to expand the palindrome centered at i
+            while (T.charAt(i + 1 + P[i]) == T.charAt(i - 1 - P[i])) {
+                P[i]++;
+            }
+
+            // If our newly expanded palindrome reaches further than the current boundary,
+            // shift our center and right boundary forward
+            if (i + P[i] > rightBoundary) {
+                center = i;
+                rightBoundary = i + P[i];
             }
         }
 
-        return s.substring(start, end + 1);
-    }
-
-    private int expandAroundCenter(String s, int left, int right) {
-        // Expand outward as long as we are within bounds and characters match
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
+        // Step 2: Find the maximum radius in P to extract the original substring
+        int maxLen = 0;
+        int centerIndex = 0;
+        for (int i = 1; i < n - 1; i++) {
+            if (P[i] > maxLen) {
+                maxLen = P[i];
+                centerIndex = i;
+            }
         }
-        // Returns the length of the palindrome found
-        return right - left - 1;
+
+        // Map the indices back to the original string
+        int start = (centerIndex - 1 - maxLen) / 2;
+        return s.substring(start, start + maxLen);
     }
 }
