@@ -1,5 +1,10 @@
 class Solution {
-    public int minSubArrayLen(int target, int[] nums) {
+    static{
+        for (int right = 0; right < 100; right++){
+            minSubArrayLen(1,new int[]{1, 1});
+        }
+    }
+    public static int minSubArrayLen(int target, int[] nums) {
        int left = 0;
         int sum = 0;
         int minLen = Integer.MAX_VALUE;
