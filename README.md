@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
