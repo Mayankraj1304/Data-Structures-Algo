@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1004-max-consecutive-ones-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
