@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1004-max-consecutive-ones-iii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0904-fruit-into-baskets) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
