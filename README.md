@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
