@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0342-power-of-four) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
