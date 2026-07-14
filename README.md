@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0387-first-unique-character-in-a-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
