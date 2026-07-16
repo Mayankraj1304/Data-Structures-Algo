@@ -25,6 +25,6 @@ public class Solution {
         }
         
         // Either they meet at the intersection node, or both meet at null (no intersection)
-        return pB;
+        return pA;
     }
 }
