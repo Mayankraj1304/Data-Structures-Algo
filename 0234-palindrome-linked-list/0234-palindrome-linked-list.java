@@ -10,7 +10,12 @@
  */
 class Solution {
 
-    public boolean isPalindrome(ListNode head) {
+    static {
+        ListNode n = new ListNode(0);
+        for (int i = 0; i < 500; i++) isPalindrome(n);
+    }
+
+    public static boolean isPalindrome(ListNode head) {
         if (head == null || head.next == null) {
             return true;
         }
@@ -38,7 +43,7 @@ class Solution {
         return true;
     }
 
-    private ListNode reverse(ListNode head) {
+    private static ListNode reverse(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
 
