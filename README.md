@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3340-check-balanced-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/3340-check-balanced-string) |
 ## Queue
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
