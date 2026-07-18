@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0739-daily-temperatures) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
