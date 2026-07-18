@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0724-find-pivot-index) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0904-fruit-into-baskets) |
 ## Simulation
@@ -273,9 +275,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
