@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
