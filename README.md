@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
