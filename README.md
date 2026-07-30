@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
