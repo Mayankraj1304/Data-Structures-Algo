@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0234-palindrome-linked-list) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -361,5 +364,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
