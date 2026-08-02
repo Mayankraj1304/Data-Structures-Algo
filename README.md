@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0412-fizz-buzz) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0257-binary-tree-paths) |
 ## Number Theory
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -383,5 +387,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
