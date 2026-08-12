@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1046-last-stone-weight) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -491,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
@@ -499,4 +505,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
