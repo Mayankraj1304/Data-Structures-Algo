@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0904-fruit-into-baskets) |
 ## Simulation
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0977-squares-of-a-sorted-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3340-check-balanced-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/3340-check-balanced-string) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0011-container-with-most-water) |
+| [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
 ## Interactive
 |  |
 | ------- |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
