@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0567-permutation-in-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
