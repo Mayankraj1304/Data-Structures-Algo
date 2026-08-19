@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0349-intersection-of-two-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0703-kth-largest-element-in-a-stream) |
