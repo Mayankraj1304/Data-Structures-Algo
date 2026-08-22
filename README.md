@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0143-reorder-list) |
