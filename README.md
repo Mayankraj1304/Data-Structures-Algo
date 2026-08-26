@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
