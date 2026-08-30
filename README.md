@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0485-max-consecutive-ones) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
