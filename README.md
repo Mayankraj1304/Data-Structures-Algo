@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1480-running-sum-of-1d-array) |
+| [1642-furthest-building-you-can-reach](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1642-furthest-building-you-can-reach) |
 | [1672-richest-customer-wealth](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
+| [1642-furthest-building-you-can-reach](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1642-furthest-building-you-can-reach) |
 ## Interactive
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1046-last-stone-weight) |
+| [1642-furthest-building-you-can-reach](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1642-furthest-building-you-can-reach) |
 ## Monotonic Queue
 |  |
 | ------- |
