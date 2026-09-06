@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/2073-time-needed-to-buy-tickets) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/2073-time-needed-to-buy-tickets) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1046-last-stone-weight) |
 | [1642-furthest-building-you-can-reach](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1642-furthest-building-you-can-reach) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
 | ------- |
