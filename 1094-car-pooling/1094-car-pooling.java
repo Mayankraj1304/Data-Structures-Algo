@@ -1,24 +1,29 @@
 class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
-        // Track passenger changes at each location (0 to 1000 based on constraints)
         int[] passengerChanges = new int[1001];
+        int maxLocation = 0;
         
-        // Record pickup and drop-off changes
         for (int[] trip : trips) {
-            int numPassengers = trip[0];
-            int from = trip[1];
-            int to = trip[2];
+            // Optimization 1: Immediate exit if any single trip exceeds capacity
+            if (trip[0] > capacity) {
+                return false;
+            }
             
-            passengerChanges[from] += numPassengers;
-            passengerChanges[to] -= numPassengers;
+            passengerChanges[trip[1]] += trip[0];
+            passengerChanges[trip[2]] -= trip[0];
+            
+            // Optimization 2: Track the highest location used across all trips
+            if (trip[2] > maxLocation) {
+                maxLocation = trip[2];
+            }
         }
         
-        // Accumulate passenger count along the route
         int currentPassengers = 0;
-        for (int change : passengerChanges) {
-            currentPassengers += change;
+        // Optimization 3: Only loop up to maxLocation instead of hardcoded 1000
+        for (int i = 0; i <= maxLocation; i++) {
+            currentPassengers += passengerChanges[i];
             if (currentPassengers > capacity) {
-                return false; // Exceeded vehicle capacity
+                return false;
             }
         }
         
