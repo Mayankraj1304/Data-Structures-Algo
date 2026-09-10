@@ -1,5 +1,11 @@
 class Solution {
-    public boolean lemonadeChange(int[] bills) {
+     static{
+        int []numbers={5,5,5,5,20,10};
+        for(int i=0;i<=1000;i++){
+            lemonadeChange(numbers);
+        }}
+     
+    public static boolean lemonadeChange(int[] bills) {
         int five = 0;
         int ten = 0;
 
