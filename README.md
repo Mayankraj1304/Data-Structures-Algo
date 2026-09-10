@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0905-sort-array-by-parity) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0860-lemonade-change) |
 | [1642-furthest-building-you-can-reach](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1642-furthest-building-you-can-reach) |
 ## Interactive
 |  |
