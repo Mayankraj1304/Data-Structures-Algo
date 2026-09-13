@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0485-max-consecutive-ones) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0763-partition-labels) |
