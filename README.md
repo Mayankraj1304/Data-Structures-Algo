@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0342-power-of-four) |
+| [0784-letter-case-permutation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0784-letter-case-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3340-check-balanced-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/3340-check-balanced-string) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0257-binary-tree-paths) |
+| [0784-letter-case-permutation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0784-letter-case-permutation) |
 ## Number Theory
 |  |
 | ------- |
