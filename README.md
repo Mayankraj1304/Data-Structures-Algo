@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0090-subsets-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0344-reverse-string) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0784-letter-case-permutation) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0104-maximum-depth-of-binary-tree) |
