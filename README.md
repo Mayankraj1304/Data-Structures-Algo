@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0136-single-number) |
