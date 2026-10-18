@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0039-combination-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0088-merge-sorted-array) |
