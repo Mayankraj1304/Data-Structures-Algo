@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0045-jump-game-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0141-linked-list-cycle) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1672-richest-customer-wealth) |
