@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1480-running-sum-of-1d-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1642-furthest-building-you-can-reach) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1095-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1095-find-in-mountain-array) |
 ## Recursion
 |  |
 | ------- |
@@ -691,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0032-longest-valid-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
