@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0844-backspace-string-compare) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0070-climbing-stairs) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mayankraj1304/Data-Structures-Algo/tree/master/0125-valid-palindrome) |
